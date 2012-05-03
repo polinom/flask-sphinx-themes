@@ -72,7 +72,7 @@ div.related {
 }
  
 div.sphinxsidebar a {
-    color: #444;
+    color: #eee;
     text-decoration: none;
     border-bottom: 1px dotted #999;
 }
@@ -99,7 +99,7 @@ div.sphinxsidebarwrapper p.logo {
 div.sphinxsidebar h3,
 div.sphinxsidebar h4 {
     font-family: 'Garamond', 'Georgia', serif;
-    color: #444;
+    color: #eee;
     font-size: 24px;
     font-weight: normal;
     margin: 0 0 5px 0;
@@ -111,7 +111,7 @@ div.sphinxsidebar h4 {
 }
  
 div.sphinxsidebar h3 a {
-    color: #444;
+    color: #eee;
 }
 
 div.sphinxsidebar p.logo a,
