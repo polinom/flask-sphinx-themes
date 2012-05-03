@@ -16,8 +16,8 @@
 body {
     font-family: 'Georgia', serif;
     font-size: 17px;
-    background-color: white;
-    color: #000;
+    background-color: black;
+    color: white;
     margin: 0;
     padding: 0;
 }
