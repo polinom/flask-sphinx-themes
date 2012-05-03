@@ -45,8 +45,8 @@ hr {
 }
  
 div.body {
-    background-color: #ffffff;
-    color: #3E4349;
+    background-color: #black;
+    color: #eee;
     padding: 0 30px 0 30px;
 }
 
